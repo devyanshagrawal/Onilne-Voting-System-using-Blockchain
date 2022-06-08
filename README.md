@@ -48,5 +48,5 @@ Now voter can vote.
 
 <br><br><br>
 This App has been developed using Flutter and so can run in IOS, Android or in PC.
-
+This app can also run using Meta Mask
 
